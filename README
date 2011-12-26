@@ -1,0 +1,15 @@
+This is the result of about 2 1/2 days of my work at the Digital Media Academy 
+Game Programming with C++ course. Originally compiled very well on Visual 
+Studio 2008, I've tried to recompile it for Visual Studio 2010, but I've run 
+into many errors on the way that involve things like compiling parts of the 
+Windows SDK, installing two copies of the DirectX SDK and overwriting some of 
+the new files with the older ones and modifying Dark GDK itself. At this point 
+my code is up here simply for review/showcasing/backup. If someone finds a way 
+of getting DarkGDK projects to compile in Visual Studio 2010, I'll gladly pull 
+the changes.
+
+Requires DarkGDK:
+http://www.thegamecreators.com/?m=view_product&id=2128&page=download
+
+                                                                -Robert Rouhani
+                                                       robert.rouhani@gmail.com
